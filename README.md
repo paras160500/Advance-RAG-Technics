@@ -1,4 +1,4 @@
-# 🚀 Advance RAG Technics
+# 🚀 Advance RAG Techniques
 
 ![Architecture Diagram](diagram.png)
 
